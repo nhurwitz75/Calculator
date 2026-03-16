@@ -3,7 +3,7 @@ body {
   justify-content: center;
 }
 .outer {
-  height: 100vh;
+  height: 95vh;
   width: 80vh;
   background-color: pink;
   border: 6px solid black; 
